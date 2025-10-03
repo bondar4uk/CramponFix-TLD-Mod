@@ -33,7 +33,7 @@ For detailed instructions on how to install mods for The Long Dark (including in
 **[The Long Dark Modlist - How to install mods for The Long Dark (TLD)](https://tldmods.com/install.html)**
 
 Once you have MelonLoader installed:
-1.  Download the **`CramponFix.dll`** file from the [latest release page](LINK_TO_YOUR_GITHUB_RELEASES).
+1.  Download the **`CramponFix.dll`** file from the **[latest release page](https://github.com/bondar4uk/CramponFix-TLD-Mod/releases/latest)**.
 2.  Place the **`CramponFix.dll`** file into the **`Mods`** folder in your TLD installation directory.
 3.  Launch the game!
 
